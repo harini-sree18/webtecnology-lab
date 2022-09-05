@@ -2,9 +2,31 @@ body {
   margin: 0;
   background-color: #CAF7E3;
 }
+a:link {
+  color: #133B5C;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+
+a:hover {
+  color: #3B5249;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
 
 #tophead {
-  border: 5px solid #069A8E;;
+  border: 5px solid #069A8E;
   background-color: #BFD8B8;
   text-align: center;
   font-family: cursive;
