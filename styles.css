@@ -3,7 +3,7 @@ body {
   background-color: #CAF7E3;
 }
 a:link {
-  color: #133B5C;
+  color: #224B0C;
   background-color: transparent;
   text-decoration: none;
 }
@@ -37,7 +37,7 @@ a:active {
   left: 0;
   top: 70px;
   background-color: #CCD6A6;
-  height: 510px;
+  height: 610px;
   width: 200px;
   border: 2px solid #069A8E;;
 }
@@ -46,25 +46,25 @@ a:active {
   height: 60px;
   position: relative;
   left: 450px;
-  bottom: 620px;
+  bottom: 720px;
 }
 
 #my-iframe {
   position: absolute;
-  bottom:-60px;
+  bottom:-160px;
 
   left: 230px;
   width: 800px;
-  height: 510px;
+  height: 610px;
   background-color: #CCD6A6;
 }
 
 #my-iframe2 {
   position: absolute;
-  bottom: -60px;
+  bottom: -160px;
   left: 1050px;
   width: 300px;
-  height: 510px;
+  height: 610px;
   background-color: #CCD6A6;
 }
 .back1{
