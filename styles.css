@@ -25,7 +25,8 @@ a:active {
 
 
 
-#tophead {
+#tophead { 
+  width: 120%;
   border: 5px solid #069A8E;
   background-color: #BFD8B8;
   text-align: center;
@@ -45,13 +46,13 @@ a:active {
 .firstimg {
   height: 60px;
   position: relative;
-  left: 450px;
+  left: 590px;
   bottom: 720px;
 }
 
 #my-iframe {
   position: absolute;
-  bottom:-160px;
+  bottom:-195px;
 
   left: 230px;
   width: 800px;
@@ -61,7 +62,7 @@ a:active {
 
 #my-iframe2 {
   position: absolute;
-  bottom: -160px;
+  bottom: -195px;
   left: 1050px;
   width: 300px;
   height: 610px;
